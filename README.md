@@ -1,4 +1,4 @@
-# LLM Infrastructure Platform (V4.1)
+# Model-Mesh (LLM Infrastructure Platform-V4.1)
 
 A production-grade, context-aware LLM routing and observability platform. This system doesn't just route requests—it learns and improves its routing decisions based on real-time outcomes.
 
