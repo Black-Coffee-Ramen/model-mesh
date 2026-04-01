@@ -1,0 +1,40 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# 🗄️ Database
+*.db
+*.sqlite
+*.sqlite3
+
+# 🧪 Research & Temp
+/tmp/
+.ipynb_checkpoints
+.pytest_cache/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+
+# 🧪 Environments
+.python-version
+pip-log.txt
+pip-delete-this-directory.txt
+
+# 📦 Visual Studio Code
+.vscode/
+
+# 📦 OS
+.DS_Store
+Thumbs.db
